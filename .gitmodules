@@ -1,0 +1,3 @@
+[submodule "Mysubject"]
+	path = Mysubject
+	url = https://github.com/Pranalipokharkar/Mysubject.git
